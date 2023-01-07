@@ -1,4 +1,3 @@
 contributors: Chelsea (@chewysea)
+This is for NodeJS. knowledge share 
 
-ok here we go 
-lets push 
